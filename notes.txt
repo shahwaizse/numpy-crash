@@ -1,0 +1,14 @@
+link to google colab:
+https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/numpy_ultraquick_tutorial.ipynb
+
+numpy is used to create and manipulate matrices, which are the main data structure used by ML algorithms.
+
+matrices representation varies, but generally:
+python -> lists
+numpy -> arrays
+tensorflow -> tensors
+
+maths operations on matrices have strict rules related to dimensions of the operands, so numpy uses something called broadcasting.
+broadcasting resizes the operands so they can be added, subtracted, multiplied, etc.
+
+noise is artificial deviation introduced to the dataset to make it more realistic.
